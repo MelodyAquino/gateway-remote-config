@@ -6,7 +6,7 @@
 				" dirección_servidor " : " au915.thethings.meshed.com.au",
 				" serv_port_up " : 1700 ,
 				" serv_port_down " : 1700 ,
-				" serv_enabled " : verdadero 
+				" serv_enabled "  true 
 			} 
 		], 
 		" ref_latitude " : -31.82374325 ,
